@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[yit:home|Door43 (yit)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-yit|d43-yit repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-yit/archive/master.zip|d43-yit.zip]]
+
+**Recent Changes**
+{{changes>ns = yit}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/yit|Ethnologue data]]
+
